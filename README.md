@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+Start MongoDB on localhost:27017
+
 ```bash
 npm install
 # or
